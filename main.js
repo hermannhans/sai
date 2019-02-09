@@ -1,5 +1,5 @@
 // Screeting Artificial intelligence - SAI
-// [Coded by Hans]
+// [Coded by Hermann Hans]
 // Version 1.1a
 
 //INIT
